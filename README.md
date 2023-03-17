@@ -1,4 +1,5 @@
-# vue-counter
+# Here is a hosted link to my Altschool-Third-Semester-Exam-Project
+alfredchado-altschool-counterpoint-app
 
 ## Project setup
 ```
