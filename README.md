@@ -1,5 +1,5 @@
 # Here is a hosted link to my Altschool-Third-Semester-Exam-Project
-alfredchado-altschool-counterpoint-app
+[alfredchado-altschool-counterpoint-app](https://alfredchado-altschool-counterpoint.netlify.app/)
 
 ## Project setup
 ```
